@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+runs/
+checkpoints/
+*.pt
+*.pth
+*.pth.tar
+data/
+datasets/
+images/
+*.csv
