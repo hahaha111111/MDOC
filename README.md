@@ -1,6 +1,6 @@
 # MDOC
 
-Minimal public implementation of Medical Deep One-Class Classification.
+Implementation of Medical Deep One-Class Classification.
 
 ## Files
 
